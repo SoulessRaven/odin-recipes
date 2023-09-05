@@ -1,0 +1,40 @@
+#ancestor {
+    background-color: rgb(186, 186, 188);
+    text-align: center;
+    font-family: Georgia, Arial, sans-serif;
+}
+
+ol,
+ul {
+    position:relative;
+    display: inline-block;
+    text-align: left;
+    margin: auto;
+    padding: 0;
+}
+
+ol {
+    padding-bottom: 25px;
+}
+
+img {
+    height: auto;
+    width: 512px;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+p,
+li {
+    font-size: 18px;
+}
