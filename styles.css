@@ -25,6 +25,16 @@ ol li {
     padding-bottom: 20px;
 }
 
+ol p{
+    font-weight: bold;
+    font-size: 28px;
+}
+
+ul p {
+    font-size: 28px;
+    font-weight: bold;
+}
+
 img {
     height: auto;
     width: 512px;
